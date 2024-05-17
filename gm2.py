@@ -1,4 +1,4 @@
-
+print("hi")
 pygame.display.update()  # 게임화면을 다시그림
 
 # 미사일로 운석을 파괴하기 위한 모습
